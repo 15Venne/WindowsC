@@ -1,0 +1,11 @@
+char c='\0';c='v'; ();
+int main()
+{
+int i;
+for(i=0;i<50;i++)
+{
+printf("this is cirle\n");
+}
+printf("Hello World!\n");
+return 0;
+}
